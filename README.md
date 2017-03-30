@@ -78,6 +78,6 @@ After that, you can see the information shown in the terminal.
 
 Brought to you by Huang MaChi (Chongqing University of Posts and Telecommunications, Chongqing, China.) and Li Cheng (Beijing University of Posts and Telecommunications. www.muzixing.com).
 
-If you have any question, you can email me at huangmachi@foxmail.com.
+If you have any question, you can email me at huangmachi@foxmail.com.  Don't forget to STAR this repository!
 
 Enjoy it!
