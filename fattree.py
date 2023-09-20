@@ -232,7 +232,7 @@ def install_proactive(net, topo):
 				j += 1
 				k = 1
 
-def run_experiment(pod, density, ip="192.168.56.101", port=6653, bw_c2a=10, bw_a2e=10, bw_e2h=10):
+def run_experiment(pod, density, ip="127.0.0.1", port=6633, bw_c2a=10, bw_a2e=10, bw_e2h=10):
 	"""
 		Firstly, start up Mininet;
 		secondly, start up Ryu controller;
